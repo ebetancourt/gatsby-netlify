@@ -1,5 +1,5 @@
 ---
-title: "Our Second Post"
+title: "Our Second Post on Netlify"
 date: "2018-02-28"
 type: "blog-post"
 ---
